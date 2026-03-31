@@ -56,7 +56,7 @@ I set up my professional profiles on three key platforms that recruiters and the
 ---
 
 ### 💻 Task 3 — Coding & Collaboration Platforms
-> **Platforms:** HackerRank · Google Forms
+> **Platforms:** CodeChef · Google Forms
 
 - ✅ Completed a beginner coding challenge on **CodeChef**
 - ✅ Built a **Digital Literacy Quiz** using Google Forms
