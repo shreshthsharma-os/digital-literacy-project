@@ -14,5 +14,5 @@ The infographic is titled "Digital Literacy: Your Superpower in the Digital Age"
 One thing I found interesting while making this infographic was balancing visual appeal with information density. Fitting meaningful content into a single page without making it feel cluttered was a real design challenge. Using icons and color-coded sections helped organize the information clearly and made the infographic easy to read at a glance.
 
 ## File
-- `infographic.png` - exported screenshot of the Canva design
+- `canvaSS.png` - exported screenshot of the Canva design
 - Canva link: https://www.canva.com/d/eqq9iq-3seg6WjV
